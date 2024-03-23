@@ -1,4 +1,4 @@
-Cara A Ecommerce Website - Frontend
+1 . Cara A Ecommerce Website – Frontend
 
 Welcome to Cara A Ecommerce Website! This repository contains the frontend codebase for our ecommerce platform, built using HTML, CSS, and JavaScript. Below you'll find essential information to get started with the frontend development and contribute effectively to our project.
 
@@ -7,7 +7,7 @@ To begin working with our frontend codebase, follow these steps:
 
 Clone the Repository:
 
-git clone https://github.com/cara-a-ecommerce/frontend.git
+git clone https://github.com/Mukil09/Multipage-website.git
 
 Access the Codebase:
 Open the cloned directory in your preferred code editor.
