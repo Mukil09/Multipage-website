@@ -24,7 +24,4 @@ Write clear and concise commit messages.
 Issues
 If you encounter any bugs or have suggestions for improvements, please open an issue on GitHub. We appreciate your feedback!
 
-Contact
-If you have any questions or need further assistance, feel free to contact our team at contact@cara-a-ecommerce.com.
-
 Thank you for using Cara A Ecommerce Website frontend! We hope you enjoy working with our codebase.
